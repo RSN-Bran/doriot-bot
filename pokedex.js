@@ -849,10 +849,10 @@ pokemonArray[44] = {
 	"gif": "Shiny/vileplume.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Rafflesia",
+	"method": "Friend Safari",
+	"order": 391,
+	"attempts": 1200
 }
 
 pokemonArray[45] = {
@@ -1476,10 +1476,10 @@ pokemonArray[77] = {
 	"gif": "Shiny/rapidash.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "LilSebastian",
+	"method": "Friend Safari",
+	"order": 394,
+	"attempts": 9
 }
 
 pokemonArray[78] = {
@@ -3680,10 +3680,10 @@ pokemonArray[193] = {
 	"gif": "Shiny/wooper.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Ditto",
+	"method": "Friend Safari",
+	"order": 399,
+	"attempts": 295
 }
 
 pokemonArray[194] = {
@@ -5390,10 +5390,10 @@ pokemonArray[283] = {
 	"gif": "Shiny/masquerain.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Mr.AngryEyes",
+	"method": "Friend Safari",
+	"order": 397,
+	"attempts": 114
 }
 
 pokemonArray[284] = {
@@ -6017,10 +6017,10 @@ pokemonArray[316] = {
 	"gif": "Shiny/swalot.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Rimiru",
+	"method": "Friend Safari",
+	"order": 396,
+	"attempts": 1926
 }
 
 pokemonArray[317] = {
@@ -6245,10 +6245,10 @@ pokemonArray[328] = {
 	"gif": "Shiny/vibrava.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Sahara",
+	"method": "Friend Safari",
+	"order": 400,
+	"attempts": 399
 }
 
 pokemonArray[329] = {
@@ -8981,10 +8981,10 @@ pokemonArray[472] = {
 	"gif": "Shiny/mamoswine.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Raymond",
+	"method": "Friend Safari",
+	"order": 392,
+	"attempts": 816
 }
 
 pokemonArray[473] = {
@@ -9608,10 +9608,10 @@ pokemonArray[505] = {
 	"gif": "Shiny/lillipup.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Nestlé",
+	"method": "Friend Safari",
+	"order": 393,
+	"attempts": 1169
 }
 
 pokemonArray[506] = {
@@ -10026,10 +10026,10 @@ pokemonArray[527] = {
 	"gif": "Shiny/swoobat.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Edward",
+	"method": "Friend Safari",
+	"order": 398,
+	"attempts": 851
 }
 
 pokemonArray[528] = {
@@ -11109,10 +11109,10 @@ pokemonArray[584] = {
 	"gif": "Shiny/deerling.gif",
 	"size": "100%",
 
-	"nickname": "",
-	"method": "",
-	"order": 0,
-	"attempts": 0
+	"nickname": "Benis",
+	"method": "DexNav",
+	"order": 395,
+	"attempts": 524
 }
 
 pokemonArray[585] = {
